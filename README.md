@@ -4,9 +4,7 @@ LoginPage:
 
 Verify that the Login page is displayed correctly with all the required fields such as username, password, and Login button.
 Test the user login process with valid and invalid credentials, including checking error messages and handling.
-Verify the "Forgot Password" functionality is working as expected, including password reset and email notifications.
-Test the "Remember me" feature to ensure that it persists the user session across multiple sessions.
-
+Verify the "Ai uitat parola?" functionality is working as expected, including password reset and email notifications.
 
 Homepage:
 
@@ -20,7 +18,7 @@ ProductPage:
 
 Verify that the Product Page is displayed correctly, including all the required product details such as name, description, price, and images.
 Test the different product categories and filters to ensure they are working correctly.
-Verify that the "Add to Cart" and "Buy Now" buttons are working correctly and adding products to the cart and initiating the checkout process.
+Verify that the "Adaugă în coș" and "Adaugă articolul în lista de favorite" buttons are working correctly and adding products to the cart and initiating the checkout process.
 Test the product reviews and ratings functionality to ensure they are working correctly and displaying accurate information.
 
 Note:
